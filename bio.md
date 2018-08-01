@@ -13,5 +13,5 @@ photography and art.
 building things. Two materials I like to use the  
 most are wood and metal.  
 
-[BACK TO HOMEBAGE](index.md)
+[BACK TO HOMEPAGE](index.md)
 
