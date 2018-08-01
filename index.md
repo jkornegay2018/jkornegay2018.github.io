@@ -3,4 +3,4 @@
 [TOPIC](topic.md)
 
 
-![dovetail](dovetail.jpg)
+![dovetail](Dovetail.jpg)
