@@ -1,6 +1,6 @@
 # JOHN'S HOMEPAGE 
 [BIO](bio.md)
-## 1. Mortise and Tenon
+[TOPIC](topic.md)
 ![The Joint](Mortise_and_Tenon.jpg)
 ## 2. Dovetail
 ![Dovetail](Dovetail.jpg)
